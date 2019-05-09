@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65612" started-at="2019-05-09T11:47:57Z" finished-at="2019-05-09T11:49:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65612" started-at="2019-05-09T11:47:57Z" finished-at="2019-05-09T11:49:02Z">
+      <class name="com.mobiotics.hits.TESTCASES.TC_Device_Suspension">
+        <test-method status="PASS" signature="initApplication()[pri:0, instance:com.mobiotics.hits.TESTCASES.TC_Device_Suspension@24b1d79b]" name="initApplication" is-config="true" duration-ms="11714" started-at="2019-05-09T11:47:45Z" finished-at="2019-05-09T11:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="deviceSuspensionTestMethod()[pri:0, instance:com.mobiotics.hits.TESTCASES.TC_Device_Suspension@24b1d79b]" name="deviceSuspensionTestMethod" duration-ms="65564" started-at="2019-05-09T11:47:57Z" finished-at="2019-05-09T11:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deviceSuspensionTestMethod -->
+      </class> <!-- com.mobiotics.hits.TESTCASES.TC_Device_Suspension -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
